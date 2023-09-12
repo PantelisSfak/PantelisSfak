@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center"> I'm Pantelis, a data scinetist that enjoys working with complex problems that can make a meaningful impact, using computer science and mathematics.</h3>
 
-- 👨‍🎓 Bachelor's Degree in Mathematics and MSc in Data Science.
+- 👨‍🎓 Bachelor's Degree in **Mathematics** and MSc in **Data Science.**
 
 - 🌱 I’m currently learning about **Docker and Kubernetes.**
 
