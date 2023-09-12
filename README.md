@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center"> I'm Pantelis, a data scinetist that enjoys working with complex problems that can make a meaningful impact, using computer science and mathematics.</h3>
+<h1 align="center">Pantelis Sfakianakis</h1>
+<h3 align="center"> I enjoy solving problems that can make a meaningful impact, using computer science and mathematics</h3>
 
 - 👨‍🎓 Bachelor's Degree in **Mathematics** and MSc in **Data Science.**
 
