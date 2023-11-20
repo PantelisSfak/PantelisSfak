@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Bachelor's Degree in **Mathematics** and MSc in **Data Science.**
 
-- 🌱 I’m currently learning about **Docker and Kubernetes.**
+- 🌱 I’m currently learning about **Big data on AWS.**
 
 - 💬 Ask me about **Python, Machine Learning, Data Science, Natural Language Proecessing, Data Engineering.**
 
